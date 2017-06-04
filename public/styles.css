@@ -1,0 +1,23 @@
+.selected {
+  color: black;
+}
+
+.mts {
+  margin-top: 10px;
+}
+
+.mbl {
+  margin-bottom: 20px;
+}
+
+.abt {
+  align: center;
+  padding: 10px;
+  float: left;
+}
+
+img {
+  border-radius: 5%;
+  max-width: 20vw;
+  max-height: 20vh;
+}
