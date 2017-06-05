@@ -4,6 +4,7 @@ const About = (props) => (
   <div className="row">
     <div className="small-12 columns">
       <h3 className="aboutText">{props.data.name}</h3>
+      <hr></hr>
       <h5 className="aboutText">{props.data.description}</h5>
       <hr></hr>
     </div>
