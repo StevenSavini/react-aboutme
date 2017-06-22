@@ -1,4 +1,4 @@
-const menu = [
+const menus = [
   {
     id: 'bio',
     name: 'About Me'
@@ -20,4 +20,4 @@ const menu = [
   }
 ]
 
-export default menu
+export default menus
