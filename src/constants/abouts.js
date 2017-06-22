@@ -9,8 +9,13 @@ const abouts = [
   {
     menu_id: 'hire',
     name: 'Why Hire Me',
+<<<<<<< HEAD:src/constants/about.js
+    description: 'Being a father of two children has given me perspective on life. It has made me assess what I want in life. I came into programming because I have a passion for it. I spent years prior to Launch practicing on sites like Code Academy and Free Code Camp in my free time after I put the kids to sleep. Knowing that I had found a career that would amke me happy I put everything on the line, quit my job, and paid to attend Launch Academy. Now I\'m ready to jump into a new career. Having an uderstanding of Ruby, React, JavaScript, OOP, TDD, and the Git workflow has put me into a position to succeed and I cannot wait to further my learning.',
+    image: 'https://s3.amazonaws.com/horizon-production/images/restaurants/corner-pub.jpg'
+=======
     description: 'Being a father of two children has given me perspective on life. It has made me assess what I want and how to get there. I came into programming because I have a passion for it. I spent years prior to Launch doing sites like Code Academy and Free Code Camp in my free time after the kids were put to sleep. Knowing that I had found a career that would make me happy I put everything on the line, quit my job, and paid to attend Launch Academy. Now I\'m ready to jump into a new career. Having an understanding of Ruby, React, JavaScript, OOP, TDD, and the Git workflow has put me into a position to succeed and I cannot wait to further my learning.',
     image: 'https://s3.us-east-2.amazonaws.com/react-aboutme-development/working.png'
+>>>>>>> 820538e4fe91281779cae5615198b0bf9c3d3751:src/constants/abouts.js
   },
 
   {
